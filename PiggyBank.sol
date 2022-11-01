@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: UNLICENSED
+
 pragma solidiy^0.4.7
 
 contract PiggyBank {
